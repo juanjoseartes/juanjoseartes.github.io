@@ -14,8 +14,8 @@
     <div>
       <img class="center-block" id="gitHubAvatar">
     </div>
-    <div name="name1" class="btn btn-default" id="gitHubUser">User</div>
-    <div name="name2" class="btn btn-default" id="gitHubLocation"></div>
+    <div name="name1" id="gitHubUser"></div>
+    <div name="name2" id="gitHubLocation"></div>
   </div>
  </div>
 
